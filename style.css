@@ -1,0 +1,8 @@
+:root {
+    --cor-da-fente: rgb(0, 88, 252); 
+    --cor-do-fundo: rgb(0, 204, 255);
+}
+body{
+    color: var(--cor-da-fente);
+    background-color:var(--cor-do-fundo);
+}
